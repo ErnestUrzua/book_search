@@ -10,8 +10,8 @@ book search is an application that querys google books api for what ever books y
 ## Technologies used
 - mongoDB
 - Mongoose
-- bootstrap
-- react
+- Bootstrap
+- React
 
 ## Screenshots
 ![Main page](./assets/ss1.png)
